@@ -6,7 +6,7 @@
 # --- MAIN MENU ---
 def main_menu():
     while True:
-        print("\n=== ☎︎  KONTAK MANAGER ☎︎ ===")
+        print("\n=== ☎︎ KONTAK MANAGER ☎︎ ===")
         print("1. Lihat Kontak")
         print("2. Tambah Kontak")
         print("3. Edit Kontak")
