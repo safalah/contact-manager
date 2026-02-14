@@ -55,5 +55,5 @@ Mini apps ini dibuat sebagai Capstone Project Module 1 untuk melatih pemahaman d
 
 (Dibuat oleh : Muhamad Fahrizal Safalah)
 -------------
-https://www.canva.com/design/DAHA2E6NPOo/CefKfxiWfqZQxJbD7epZGw/edit?ui=eyJBIjp7fX0https://www.canva.com/design/DAHA2E6NPOo/CefKfxiWfqZQxJbD7epZGw/edit?ui=eyJBIjp7fX0
+https://www.canva.com/design/DAHA2E6NPOo/CefKfxiWfqZQxJbD7epZGw/edit?ui=eyJBIjp7fX0
 https://youtu.be/IwKbb5R143A?si=ID3hEvG1fzF1NW2-
